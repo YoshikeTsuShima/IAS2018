@@ -2,6 +2,9 @@ body {background-color: lightblue}
 #maincontent {
     text-align: center;
 }
+#navbar {
+    text-align: center;
+}
 a#navbar:link, a#navbar:visited {
     background-color: grey;
     color: white;
