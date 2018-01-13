@@ -1,5 +1,8 @@
 body {background-color: lightblue}
-a:link, a:visited {
+#maincontent {
+    text-align: center;
+}
+a#navbar:link, a#navbar:visited {
     background-color: grey;
     color: white;
     padding: 14px 25px;
@@ -8,6 +11,6 @@ a:link, a:visited {
     display: inline-block;
 }
 
-a:hover, a:active {
+a#navbar:hover, a#navbar:active {
     background-color: green;
 }
