@@ -21,6 +21,7 @@ body {
   padding: 8px 15px;
   text-align: center;
   display: block;
+  border-radius: 0;
 }
 
 #navbar a:link, #navbar a:visited {
