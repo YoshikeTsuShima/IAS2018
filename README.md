@@ -11,7 +11,7 @@ https://eeb2.github.io/IAS2018
 - Present your topic in a simple and understandable way. Divide it into logical parts and make the site structure accordingly.
 - Write your own text. Don't copy-and-paste text without a good reason - and in that case mark the source immediately. *Note: if you don't understand a word or an expression, don't use it! Write the idea in other words or leave it out.*
 - Linking: you must be able to easily navigate between the pages in your topic folder. Preserve the link to the home of homes, too.
-- Sources: make a separate HTML page for the sources (give the links, too).
+- Sources: make a separate HTML page to list the sources (give the links, too).
 - Copyright: make sure you are allowed to use the images and other materials and follow the given source marking recommendations. 
 
 ## Help for citing and sources:
