@@ -3,3 +3,6 @@ A web site presenting topics related to IT and Society, done by S4 ICT students 
 
 To show the site in a browser
 https://eeb2.github.io/IAS2018
+
+Assessment:
+
