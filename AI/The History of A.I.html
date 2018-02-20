@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+  background-color: lightblue;
+  font-size: 120%;
+  color: #668;
+  font-family: sans-serif;
+}
+#maincontent {
+  text-align: center;
+}
+#navbar {
+  text-align: center;
+  float: left;
+  width: 200px;
+}
+#navbar a {
+  background-color: #222;
+  font-size: 100%;
+  font-weight: 400;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  display: block;
+  border-radius: 0;
+}
+#navbar a:link, #navbar a:visited {
+  text-decoration: none;
+}
+#navbar a:hover, #navbar a:active {
+  background-color: #666;
+}
+  <title>Artificial Intelligence</title>
+</style>  
+</head>
+<body>
+  <div id="navbar">
+    <a href="index.html">Home</a>
+    <a href="What is A.I.html">What is A.I</a>
+    <a href="The History of A.I.html">The History of A.I</a>
+    <a href="A.I in Games.html">A.I in Games</a>
+    <a href="Self Learning A.I.html">Self Learning A.I</a>
+    <a href="The Future of A.I.html">The Future of A.I</a>
+  
+  </div>
+  
+  <div id="maincontent">
+    <h1>Definition</h1>
+    <p>the theory and development of computer systems able to perform tasks normally requiring human intelligence, 
+      such as visual perception, speech recognition, decision-making,
+     and translation between languages.</p>
+  </div>
+ 
+</body>
+</html>
